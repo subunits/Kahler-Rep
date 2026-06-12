@@ -1,3 +1,8 @@
-# HyperKähler AI-Quantum Integration Stack
+# 💿 OBZEN ENGINE (v1.0.0-beta)
+> "A rational gaze into hyperKähler manifolds."
 
-An analytical framework for auditing Kähler and hyperKähler potentials, metric Hessians, and verifying Monge-Ampère geometries.
+An analytical, symbolic framework built to audit complex geometries, compute metric Hessians, and violently verify Monge-Ampère determinants under heavy rhythmic conditions.
+
+### Modules:
+* core/symbolic_engine.py  -> The Auditor
+* core/manifolds.py        -> Eguchi-Hanson & Taub-NUT Profiles
